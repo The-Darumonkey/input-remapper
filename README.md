@@ -6,7 +6,7 @@
 </ol>
 </p>
 <p>The changes to the files are minor - they add two more virtual gamepads, which are identified in the program as gamepad2 and gamepad3. There are now 6 analogue sticks to work with instead of the usual 2, which gives Linux players of Elite: Dangerous, Star Citizen, In the Black and any other game with 6DoF movement more options for mapping their often complex control schemes.</p>
-<p>As this is a personal use, I haven't bothered creating a .deb for it. There are instructions on how to do so below, written by the dev of the original project. I have left the the rest of the readme unchanged for the time being, so links will point to the original Input Remapper repo.</p>
+<p>As this is for personal use, I haven't bothered creating a .deb for it. There are instructions on how to do so below, written by the dev of the original project (although I won't claim it will work with my edits - I haven't tested). I have left the the rest of the readme unchanged for the time being, so links will point to the original Input Remapper repo.</p>
 <p align="center"><img src="data/input-remapper.svg" width=100/></p>
 
 <h1 align="center">Input Remapper (Multi-Gamepad)</h1>
