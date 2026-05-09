@@ -1,12 +1,3 @@
-<p align="center"><img src="data/input-remapper.svg" width=100/></p>
-
-<h1 align="center">Input Remapper (Multi-Gamepad)</h1>
-
-<p align="center">
-  An easy to use tool for Linux to change the behaviour of your input devices.<br/>
-  Supports X11, Wayland, combinations, programmable macros, joysticks, wheels,<br/>
-  triggers, keys, mouse-movements and more. Maps any input to any other input.
-</p>
 <h2>A brief note</h2>
 <p>This fork of Input Remapper is primarily for my personal use. I forked the original because I stupidly lost my edits (and a bunch of other scripts and tools) on a reinstall. I figured it was both safer to have a copy here and that it <i>might</i> prove of use to someone else. I have edited two files:
 <ol>
@@ -16,7 +7,15 @@
 </p>
 <p>The changes to the files are minor - they add two more virtual gamepads, which are identified in the program as gamepad2 and gamepad3. There are now 6 analogue sticks to work with instead of the usual 2, which gives Linux players of Elite: Dangerous and Star Citizen many more options for mapping their often complex control schemes.</p>
 <p>As this is a personal use, I haven't bothered creating a .deb for it. There are instructions on how to do so below, written by the dev of the original project. I have left the the rest of the readme unchanged for the time being, so links will point to the original Input Remapper repo.</p>
+<p align="center"><img src="data/input-remapper.svg" width=100/></p>
 
+<h1 align="center">Input Remapper (Multi-Gamepad)</h1>
+
+<p align="center">
+  An easy to use tool for Linux to change the behaviour of your input devices.<br/>
+  Supports X11, Wayland, combinations, programmable macros, joysticks, wheels,<br/>
+  triggers, keys, mouse-movements and more. Maps any input to any other input.
+</p>
 <p align="center"><a href="readme/usage.md">Usage</a> - <a href="readme/macros.md">Macros</a> - <a href="#installation">Installation</a> - <a href="readme/development.md">Development</a> - <a href="readme/examples.md">Examples</a></p>
 
 <p align="center"><img src="readme/pylint.svg"/> <img src="readme/coverage.svg"/></p>
